@@ -6,4 +6,5 @@ def Palindromo():
         print(f"{Frase} es un palindromo")
     else:
         print(f"{Frase} no es un palindromo")
-Palindromo()                
+Palindromo() 
+print(":)")               
